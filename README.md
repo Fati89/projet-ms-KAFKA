@@ -24,3 +24,5 @@
 #### avec count
 ![img_11.png](img_11.png)
 ### - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
+![img_12.png](img_12.png)
+![img_14.png](img_14.png)
