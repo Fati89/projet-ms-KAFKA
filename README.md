@@ -2,7 +2,7 @@
 
 ![img.png](img.png)
 
-## 2. Avec Docker (voir https://developer.confluent.io/quickstart/kafka-docker/)
+## 2. Avec Docker
 ### - Créer le fichier docker-compose.yml
 ![img_3.png](img_3.png)
 ### - Démarrer les conteneurs docker : zookeeper et kafka-broker
@@ -13,12 +13,11 @@
 
 ## 3. En Utilisant KAFKA et Stpring Cloud Streams, Créer :
 ### - Un Service Producer KAFKA via un Rest Controler
-#### -- console consumer
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
-#### -- spring consumer
-![img_7.png](img_7.png)
 ### - Un Service Consumer KAFKA
+![img_7.png](img_7.png)
 ### - Un Service Supplier KAFKA
+![img_8.png](img_8.png)
 ### - Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams
 ### - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
