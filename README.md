@@ -20,4 +20,7 @@
 ### - Un Service Supplier KAFKA
 ![img_8.png](img_8.png)
 ### - Un Service de Data Analytics Real Time Stream Processing avec Kaflka Streams
+![img_10.png](img_10.png)
+#### avec count
+![img_11.png](img_11.png)
 ### - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
